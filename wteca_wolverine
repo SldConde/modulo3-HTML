@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WTeca</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+    <div>   
+        <div class="logo">
+            <img src="midia/logo.png" width="150"/>
+        </div>
+    </div>
+
+    <div class="bar"></div>
+
+    <div class="content">
+        <div class="sidebar">
+            <h2>Quadrinhos</h2>
+            <ul>
+                <li><a href="superMan.html" target="_blank">Superman</a></li>
+                <li><a href="wolverine.html" target="_self" tarde>Wolverine</a></li>
+            </ul>
+        </div>
+
+        <div class="main">
+
+            <!--primeiro Titulo da pagina-->
+
+            <h1 id="wolverine" align="center"> <u>Wolverine</u></h1> <small> <a href="#artigo">(voltar)</a></small>
+            <p>Wolverine (nascido James Howlett conhecido como 
+            Logan e às vezes como Arma X) é um personagem fictício 
+            que aparece em quadrinhos americanos publicados pela 
+            Marvel Comics, principalmente em associação com os 
+            X-Men. Ele é um mutante que possui sentidos afiados, 
+            capacidades físicas aprimoradas, habilidade 
+            regenerativa poderosa conhecida como fator de cura e 
+            três garras retraveis ​​de ossos em cada mão. Wolverine 
+            foi retratado de forma variada como membro do X-Men, 
+            Tropa Alfa e Vingadores.</p>
+            <p>O personagem apareceu no último painel de O Incrivel
+            Hulk #180 antes de ter um papel maior em #181 
+            (datado de novembro de 1974). Ele foi criado pelo 
+            editor-chefe da Marvel, Roy Thomas, o escritor Len 
+            Wein e o diretor de arte da Marvel, Sr. John Romita, 
+            que projetou o personagem e foi desenhado pela primeira 
+            vez para publicação por Herb Trimpe. Wolverine juntou-se 
+            a uma versão renovada da equipe de super-heróis dos 
+            X-Men, onde eventualmente o escritor Chris Claremont e o 
+            escritor-artista John Byrne desempenhariam papéis
+            significativos no desenvolvimento do personagem. O 
+            artista Frank Miller colaborou com Claremont e ajudou 
+            a revisar o personagem com uma série limitada homônima 
+            de quatro partes de setembro a dezembro de 1982, que 
+            estreou o bordão de Wolverine, "Eu sou o melhor no que 
+            faço, mas o que eu faço melhor não é muito agradável" 
+            (ou, no Brasil, "eu sou o melhor no que faço, mas o que 
+            faço não é nada bonito").</p>
+            <hr/>
+
+            <!--segundo titulo da pagina-->
+
+            <h2 id="biografia"> <u> Biografia ficcional  </u> </h2> <small> <a href="#artigo">(voltar)</a></small>
+            <p>Wolverine nasceu James Howlett no norte de Alberta, 
+            Canadá, no final da década de 1880, supostamente 
+            filho dos ricos proprietários de fazendas John e 
+            Elizabeth Howlett, embora ele seja realmente o filho 
+            ilegítimo de Elizabeth e do caseiro dos Howletts, Thomas 
+            Logan. Depois que Thomas é expulso da propriedade dos 
+            Howlett por uma tentativa de estupro perpetrada por seu 
+            outro filho, chamado simplesmente Cão, ele retorna à 
+            mansão Howlett e mata John Howlett. Em retaliação, o 
+            jovem James mata Thomas com garras de osso que emergem 
+            da parte de trás de suas mãos, conforme a sua mutação 
+            se manifesta. Ele foge com sua companheira de 
+            infância, Rose, e vive ate a idade adulta em uma colônia 
+            de mineração em Yukon, adotando o nome de "Logan". 
+            Quando Logan acidentalmente mata Rose com suas garras, 
+            ele foge da colônia e vive no deserto entre os lobos, 
+            até ser capturado e colocado em um circo. Saul Creed, 
+            irmão de Victor Creed, liberta Logan, mas depois que 
+            ele trai Logan e Clara Creed para Nathaniel Essex, 
+            Logan afoga Creed na poção de Essex. Logan retorna à 
+            civilização, residente com a tribo Blackfoot. Após a 
+            morte de sua amante Blackfoot, Raposa Prateada, nas 
+            mãos de Victor Creed, agora conhecido como Dentes-de-
+            Sabre, ele é conduzido aos militares canadenses 
+            durante a Primeira Guerra Mundial. Logan passa o tempo
+            em Madripoor antes de se instalar no Japão, onde ele 
+            se casa com Itsu e tem um filho, Daken. Logan não 
+            conhece seu filho por muitos anos.</p>
+
+                    <figure>
+                        <img src="https://ovicio.com.br/wp-content/uploads/2021/09/20210913-wolverinefacejpg-88565a_160w-1024x576.jpg" height="200" width="400" >
+                    </figure>
+
+                    <!--terceiro titulo da pagina--> 
+
+                    <h3 id="cenaFilme"> <u> Cena de Wolverine Imortal</u> </h3> <small> <a href="#artigo">(voltar)</a></small>
+
+                    <iframe width="640" height="315" src="https://www.youtube.com/embed/yc1NItxAiDI?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    
+                </div>
+
+        <div class="anchors">
+            <h2 id="artigo">Neste Artigo</h2>
+            <!--links de todos os titulos da pagina-->
+            <ul>
+                <li><a href="#wolverine">Wolverine</a></li>
+                <li><a href="#biografia">Biografia Ficcional</a></li>
+                <li><a href="#cenaFilme">Cena de Wolverine Imortal</a></li>            
+            </ul>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>Esta página foi editada pela última vez 
+            às 23h57min de 8 de novembro de 2022.</p>
+        <p>Este texto é disponibilizado nos termos 
+            da licença Atribuição-CompartilhaIgual 
+            3.0 Não Adaptada (CC BY-SA 3.0) da 
+            Creative Commons; pode estar sujeito a 
+            condições adicionais. Para mais detalhes, 
+            consulte as condições de utilização.</p>
+            <pre> Política de privacidade     Sobre a Wikipédia     Avisos gerais     Versão móvel      Programadores     Estatísticas     Declaração sobre 'cookies'</pre>
+              
+            
+            
+            
+            
+
+    </div>
+</body>
+</html>
