@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WTeca</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+    <div>   
+        <div class="logo">
+            <img src="midia/logo.png" width="150"/>
+        </div>
+    </div>
+
+    <div class="bar"></div>
+
+    <div class="content">
+        <div class="sidebar">
+            <h2>Quadrinhos</h2>
+            <ul>
+                <li><a href="superMan.html" target="_self">Superman</a></li>
+                <li><a href="wolverine.html" target="_blank" tarde>Wolverine</a></li>
+            </ul>
+        </div>
+
+        <div class="main">
+
+            <!--primeiro Titulo da pagina-->
+            <h1 id="superman" align="center"> <u>Superman</u></h1><small> <a href="#artigo">(voltar)</a></small>
+            <p>Superman ou Super-Homem é um super-herói
+                 de histórias em quadrinhos publicadas 
+                 pela DC Comics. O personagem, entretanto, 
+                 desde os anos 1930, já foi adaptado para 
+                 diversos outros meios, como cinema, rádio, 
+                 televisão, literatura e video game. 
+                 Superman foi criado pela dupla de autores 
+                 de quadrinhos Joe Shuster e Jerry Siegel. 
+                 Sua primeira aparição aconteceu no verão 
+                 de 1938, na revista Action Comics #1. 
+                 O personagem nasceu no planeta fictício 
+                 Krypton e tinha o nome de Kal-El. Foi 
+                 enviado à Terra por seu pai cientista, 
+                 Jor-El, momentos antes de Krypton explodir. 
+                 O foguete aterrissou na cidade de Smallville 
+                 (por alguns anos, foi traduzida no Brasil 
+                 como Pequenópolis), onde o jovem Kal-El foi 
+                 descoberto pelo casal de fazendeiros Jonathan 
+                 Kent e Martha Kent. Conforme cresceu, Kal-El 
+                 descobriu que tinha capacidades sobre-humanas. 
+                 Quando não está com o tradicional uniforme azul 
+                 e vermelho, vive com Lois Lane e Jimmy Olsen 
+                 como Clark Kent, um repórter/jornalista no 
+                 Planeta Diário.</p>
+                 <br>
+                 <hr/>
+
+                 <!--segundo titulo da pagina-->
+                 <h2 id="biografia"> <u> Biografia ficcional  </u> </h2><small> <a href="#artigo">(voltar)</a></small>
+                 <h3> <u> Origens </u> </h3>
+                 <p>Superman é originário do planeta Krypton, 
+                    onde nasceu com o nome de Kal-El, filho de 
+                    Jor-El e Lara Lor-Van. Seu pai descobriu que 
+                    o núcleo de Krypton estava instável e assim o 
+                    planeta estava prestes a se autodestruir 
+                    quando este chegasse à massa crítica, mas seu 
+                    apelo para os governantes de Krypton de uma 
+                    evacuação dos habitantes não foi ouvido. 
+                    Jor-El então decidiu salvar sua família, 
+                    construindo diversos foguetes de teste (um dos 
+                    quais saiu com o animal de estimação da família, 
+                    Krypto). Quando percebeu que não conseguiria uma 
+                    nave para todos antes da explosão, decidiu salvar 
+                    seu filho, colocando o bebê Kal-El em uma pequena 
+                    nave rumo à Terra, onde o Sol amarelo e menor 
+                    gravidade lhe dariam superpoderes.</p>
+
+                    <figure>
+                        <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/b/be/Super-Homem.jpg/250px-Super-Homem.jpg" alt="foto do superman">
+                    </figure>
+
+                    <!--terceiro titulo da pagina--> 
+
+                    <h3 id="cenaFilme"> <u> Cena do filme Homem de Aço </u> </h3><small> <a href="#artigo">(voltar)</a></small>
+                    <iframe width="660" height="200" src="https://www.youtube.com/embed/1hVYdmvJ5h0?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br>               
+        </div>
+
+        <div class="anchors">
+            <h2 id="artigo">Neste Artigo</h2>
+            <!--links de todos os titulos da pagina-->
+            <ul>
+                <li><a href="#superman">Superman</a></li>
+                <li><a href="#biografia">Biografia Ficcional</a></li>
+                <li><a href="#cenaFilme">Cena do filme Homem de Aço</a></li>            
+            </ul>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>Esta página foi editada pela última vez 
+            às 23h57min de 8 de novembro de 2022.</p>
+        <p>Este texto é disponibilizado nos termos 
+            da licença Atribuição-CompartilhaIgual 
+            3.0 Não Adaptada (CC BY-SA 3.0) da 
+            Creative Commons; pode estar sujeito a 
+            condições adicionais. Para mais detalhes, 
+            consulte as condições de utilização.</p>
+            <pre> Política de privacidade     Sobre a Wikipédia     Avisos gerais     Versão móvel      Programadores     Estatísticas     Declaração sobre 'cookies'</pre>
+              
+            
+            
+            
+            
+
+    </div>
+</body>
+</html>
